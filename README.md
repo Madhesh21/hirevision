@@ -17,6 +17,20 @@ This project is built with:
   
 ## Getting Started
 
+### Clone the repo 
+
+Run the command: 
+
+```bash
+git clone https://github.com/Madhesh21/hirevision.git
+```
+
+Navigate to project directory and install dependencies:
+
+```bash
+cd hirevision
+```
+
 ### Installation
 
 Install the dependencies:
